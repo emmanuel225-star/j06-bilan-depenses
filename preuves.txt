@@ -1,0 +1,8 @@
+=== Bilan des dépenses de la semaine ===
+Tableau initial (avant tri) : [1500, 2500, 0, 4000, 1000, 2500, 3000] FCFA
+Total : 14500 FCFA
+Moyenne par jour : 2071.43 FCFA
+Dépenses > 2000 FCFA : [2500, 4000, 2500, 3000]
+Dépense maximale : 4000 FCFA
+Copie triée (croissant) : [0, 1000, 1500, 2500, 2500, 3000, 4000] FCFA
+Tableau initial (après tri) : [1500, 2500, 0, 4000, 1000, 2500, 3000] FCFA
